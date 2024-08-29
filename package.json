@@ -1,0 +1,16 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=5119",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Uzduociu valdymo app, kur ivesti duomenys yra saugami local storage ",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
